@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "title": "SERHII KALIUZHNYI / Portfolio",
+    "description": "Front-end Developer Portfolio, Web Developer, HTML CSS JavaScript, WordPress, Figma",
+    "keywords": "Front-end Developer Portfolio, Web Developer, HTML CSS JavaScript, WordPress, Figma"
+  },
+  "header": {
+    "name": "Serhii Kaliuzhnyi"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "resume": "Resume",
+    "projects": "Projects",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "HEY, I'M SERHII KALIUZHNYI",
+    "subtitle": "A results-oriented Web Developer building and managing websites and web applications that lead to the overall product’s success."
+  },
+  "about": {
+    "title": "About",
+    "role": "Front-end Developer",
+    "subtitle": "What you need to know about me",
+    "birthday": "Birthday:",
+    "age": "Age:",
+    "location": "Location:",
+    "phone": "Phone:",
+    "languages": "Languages:",
+    "degree": "Education:",
+    "master": "Master of Economics:",
+    "freelance": "Freelance:",
+    "available": "Available",
+    "desc1": "I'm a front-end focused web developer building and managing the front-end of websites and web applications that lead to the overall product’s success. Check out some of my work in the ",
+    "projects_link": "Projects section.",
+    "desc2": "I'm open to job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me."
+  },
+  "facts": {
+    "title": "Facts",
+    "projects": "Projects Completed",
+    "clients": "Happy Clients",
+    "support": "Support hours"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "My technical level",
+    "html": "HTML",
+    "css": "CSS",
+    "js": "JavaScript",
+    "php": "PHP",
+    "wp": "WordPress"
+  },
+  "resume": {
+    "title": "Resume",
+    "education": "Education",
+    "experience": "Professional Experience",
+    "master_degree": "Master Degree in Computer Science",
+    "university": "University of XYZ",
+    "frontend_dev": "Front-end Developer",
+    "company1": "XYZ Company, Germany"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "project1": "Project 1",
+    "category1": "Web Design",
+    "project2": "Project 2",
+    "category2": "Web Development"
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "text1": "Serhii is a highly skilled developer who delivered great results.",
+    "author1": "John Doe",
+    "role1": "CEO, Company"
+  },
+  "contact": {
+    "title": "Contact",
+    "location": "Location",
+    "address": "Bad Camberg, Germany",
+    "email": "Email",
+    "phone": "Phone",
+    "form_name": "Your Name",
+    "form_email": "Your Email",
+    "form_subject": "Subject",
+    "form_message": "Message",
+    "send": "Send Message"
+  },
+  "footer": {
+    "credit": "Designed by Serhii Kaliuzhnyi"
+  }
+}
