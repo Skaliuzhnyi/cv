@@ -44,48 +44,99 @@
   },
   "skills": {
     "title": "Skills",
-    "subtitle": "My technical level",
+    "subtitle": "Core skills and tools that I consistently use in my projects.",
     "html": "HTML",
     "css": "CSS",
     "js": "JavaScript",
     "php": "PHP",
-    "wp": "WordPress"
+    "wp": "WordPress",
+    "experience-1": "--- Experience with HTML5, CSS3, and JavaScript",
+    "experience-2": "--- Knowledge of JavaScript and jQuery",
+    "experience-3": "--- Experience with responsive and adaptive layouts",
+    "experience-4": "--- Experience in creating HTML pages based on design mockups",
+    "experience-5": "--- Experience in building site templates for CMS",
+    "experience-6": "--- Skills in integrating scripts for interactive UI elements and animations",
+    "experience-7": "--- Knowledge of CSS frameworks (Bootstrap, etc.)",
+    "experience-8": "-- Knowledge of cross-browser layout techniques",
+    "experience-9": "--- Proficient with Figma and Photoshop",
+    "experience-10": "--- Pixel-perfect design implementation",
+    "experience-11": "--- Experience with Gulp for workflow automation"
   },
   "resume": {
-    "title": "Resume",
-    "education": "Education",
-    "experience": "Professional Experience",
-    "master_degree": "Master Degree in Computer Science",
-    "university": "University of XYZ",
-    "frontend_dev": "Front-end Developer",
-    "company1": "XYZ Company, Germany"
+    "title": "Resume"
   },
-  "portfolio": {
+  "education": {
+    "title": "Education",
+
+    "edu-1-title": "Landing Layout & Theme Creation on WordPress CMS",
+    "edu-1-date": "July 2023",
+    "edu-1-place": "Course by Ivan Petrichenko on Udemy",
+    "edu-1-desc": "I learned how to install layouts and create custom WordPress themes from scratch, building them into full-fledged products.",
+
+    "edu-2-title": "Web Development",
+    "edu-2-date": "November 2021 - January 2022",
+    "edu-2-place": "Course \"From 0 to 1\" by Vadim Prokopchuk",
+
+    "edu-3-title": "Master in Economics of Housing and Communal Services",
+    "edu-3-date": "2002 - 2005",
+    "edu-3-place": "State Academy of Housing and Communal Services"
+  },
+  "experience": {
+    "title": "Professional Experience",
+
+    "exp-1-title": "Front-end Developer",
+    "exp-1-date": "2022 - Present",
+    "exp-1-place": "Freelance",
+
+    "exp-2-title": "Front-end Developer",
+    "exp-2-date": "2022 - 2025",
+    "exp-2-place": "Plut-on digital",
+
+    "exp-2-merged": "Plut-on digital",
+
+    "exp-3-title": "Restaurant owner",
+    "exp-3-date": "2015 - 2022",
+    "exp-3-place": "Self-employed",
+    "exp-3-resp-1": "Restaurant construction",
+    "exp-3-resp-2": "Restaurant management",
+    "exp-3-resp-3": "Selling restaurants as a running business",
+
+    "exp-4-title": "Restaurant manager",
+    "exp-4-date": "2006 - 2014",
+    "exp-4-resp-1": "Managed personnel",
+    "exp-4-resp-2": "Coordinated with suppliers",
+    "exp-4-resp-3": "Liaised with authorities for permits and compliance",
+    "exp-4-resp-4": "Developed restaurants",
+    "exp-4-resp-5": "Oversaw construction of restaurants",
+    "exp-4-resp-6": "Managed restaurant operations",
+    "exp-4-resp-7": "Sold restaurants as operating businesses"
+  },
+  "projects": {
     "title": "Portfolio",
-    "project1": "Project 1",
-    "category1": "Web Design",
-    "project2": "Project 2",
-    "category2": "Web Development"
+    "description": "Here are some examples of my work.",
+    "category": "All"
   },
   "testimonials": {
     "title": "Testimonials",
-    "text1": "Serhii is a highly skilled developer who delivered great results.",
-    "author1": "John Doe",
-    "role1": "CEO, Company"
+
+    "text1": "I highly recommend working with Sergey. All tasks were completed efficiently and on time. He also made improvements to the code, SEO, and overall website performance.",
+    "role1": "Owner, PluOn digital",
+
+    "text2": "I am very satisfied with the result! The main goal was achieved – clean code with WordPress integration.",
+    "role2": "Owner, Cyfra Service Center",
+
+    "text3": "Great work! The task was completed on time, all corrections and requests were implemented. Highly recommended.",
+    "role3": "Owner, Disystems",
+
+    "text4": "Sergey did an excellent job. The project was completed with high quality and within the agreed timeframe. All feedback was implemented. I recommend hiring him.",
+    "role4": "Owner, ArtGana"
   },
   "contact": {
     "title": "Contact",
+    "description": "I am always available. Feel free to contact me using any method convenient for you.",
     "location": "Location",
     "address": "Bad Camberg, Germany",
-    "email": "Email",
-    "phone": "Phone",
-    "form_name": "Your Name",
-    "form_email": "Your Email",
-    "form_subject": "Subject",
-    "form_message": "Message",
-    "send": "Send Message"
-  },
-  "footer": {
-    "credit": "Designed by Serhii Kaliuzhnyi"
+    "email": "E-Mail:",
+    "phone": "Phone:"
   }
 }

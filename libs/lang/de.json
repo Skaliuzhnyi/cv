@@ -41,48 +41,99 @@
   },
   "skills": {
     "title": "Fähigkeiten",
-    "subtitle": "Mein technisches Niveau",
+    "subtitle": "Kernkompetenzen und Werkzeuge, die ich konsequent in meinen Projekten einsetze.",
     "html": "HTML",
     "css": "CSS",
     "js": "JavaScript",
     "php": "PHP",
-    "wp": "WordPress"
+    "wp": "WordPress",
+    "experience-1": "--- Erfahrung mit HTML5, CSS3 und JavaScript",
+    "experience-2": "--- Kenntnisse in JavaScript und jQuery",
+    "experience-3": "--- Erfahrung mit responsiven und adaptiven Layouts",
+    "experience-4": "--- Erfahrung in der Erstellung von HTML-Seiten anhand von Designvorlagen",
+    "experience-5": "--- Erfahrung in der Entwicklung von Website-Templates für CMS",
+    "experience-6": "--- Fähigkeiten in der Integration von Skripten für interaktive UI-Elemente und Animationen",
+    "experience-7": "--- Kenntnisse in CSS-Frameworks (z. B. Bootstrap)",
+    "experience-8": "--- Kenntnisse in Techniken für Cross-Browser-Layout",
+    "experience-9": "--- Sicherer Umgang mit Figma und Photoshop",
+    "experience-10": "--- Pixel-genaue Umsetzung von Designs",
+    "experience-11": "--- Erfahrung mit Gulp zur Automatisierung von Workflows"
   },
   "resume": {
-    "title": "Lebenslauf",
-    "education": "Bildung",
-    "experience": "Berufserfahrung",
-    "master_degree": "Masterabschluss in Informatik",
-    "university": "Universität XYZ",
-    "frontend_dev": "Front-end Entwickler",
-    "company1": "XYZ Unternehmen, Deutschland"
+    "title": "Lebenslauf"
   },
-  "portfolio": {
-    "title": "Portfolio",
-    "project1": "Projekt 1",
-    "category1": "Web Design",
-    "project2": "Projekt 2",
-    "category2": "Webentwicklung"
+  "education": {
+    "title": "Ausbildung",
+
+    "edu-1-title": "Landing-Layout & Theme-Erstellung auf WordPress CMS",
+    "edu-1-date": "Juli 2023",
+    "edu-1-place": "Kurs von Ivan Petrichenko auf Udemy",
+    "edu-1-desc": "Ich habe gelernt, Layouts zu installieren und benutzerdefinierte WordPress-Themes von Grund auf zu erstellen und sie zu vollwertigen Produkten auszubauen.",
+
+    "edu-2-title": "Webentwicklung",
+    "edu-2-date": "November 2021 - Januar 2022",
+    "edu-2-place": "Kurs \"Von 0 bis 1\" von Vadim Prokopchuk",
+
+    "edu-3-title": "Master in Wirtschaft der Wohnungs- und Kommunaldienste",
+    "edu-3-date": "2002 - 2005",
+    "edu-3-place": "Staatliche Akademie für Wohnungs- und Kommunaldienste"
+  },
+  "experience": {
+    "title": "Berufserfahrung",
+
+    "exp-1-title": "Front-end Entwickler",
+    "exp-1-date": "2022 - Heute",
+    "exp-1-place": "Freelance",
+
+    "exp-2-title": "Front-end Entwickler",
+    "exp-2-date": "2022 - 2025",
+    "exp-2-place": "Plut-on digital",
+
+    "exp-2-merged": "Plut-on digital",
+
+    "exp-3-title": "Restaurantbesitzer",
+    "exp-3-date": "2015 - 2022",
+    "exp-3-place": "Selbstständig",
+    "exp-3-resp-1": "Restaurantbau",
+    "exp-3-resp-2": "Restaurantmanagement",
+    "exp-3-resp-3": "Verkauf von Restaurants als laufendes Geschäft",
+
+    "exp-4-title": "Restaurantmanager",
+    "exp-4-date": "2006 - 2014",
+    "exp-4-resp-1": "Personalführung",
+    "exp-4-resp-2": "Koordination mit Lieferanten",
+    "exp-4-resp-3": "Zusammenarbeit mit Behörden für Genehmigungen und Vorschriften",
+    "exp-4-resp-4": "Entwicklung von Restaurants",
+    "exp-4-resp-5": "Überwachung des Restaurantbaus",
+    "exp-4-resp-6": "Leitung des Restaurantbetriebs",
+    "exp-4-resp-7": "Verkauf von Restaurants als laufende Unternehmen"
+  },
+  "projects": {
+    "title": "Umgesetzte Projekteprojects",
+    "description": "Hier sind einige Beispiele meiner Arbeit.",
+    "category": "Alle"
   },
   "testimonials": {
     "title": "Referenzen",
-    "text1": "Serhii ist ein sehr erfahrener Entwickler, der hervorragende Ergebnisse geliefert hat.",
-    "author1": "John Doe",
-    "role1": "CEO, Firma"
+
+    "text1": "Ich kann die Zusammenarbeit mit Sergey sehr empfehlen. Alle Aufgaben wurden effizient und pünktlich erledigt. Außerdem hat er den Code, das SEO und die gesamte Website-Performance verbessert.",
+    "role1": "Inhaber, PluOn digital",
+
+    "text2": "Ich bin mit dem Ergebnis sehr zufrieden! Das Hauptziel wurde erreicht – sauberer Code mit WordPress-Integration.",
+    "role2": "Inhaber, Cyfra Service Center",
+
+    "text3": "Großartige Arbeit! Die Aufgabe wurde rechtzeitig erledigt, alle Korrekturen und Wünsche wurden umgesetzt. Sehr empfehlenswert.",
+    "role3": "Inhaber, Disystems",
+
+    "text4": "Sergey hat hervorragende Arbeit geleistet. Das Projekt wurde qualitativ hochwertig und innerhalb der vereinbarten Frist abgeschlossen. Alles Feedback wurde berücksichtigt. Ich empfehle, ihn zu engagieren.",
+    "role4": "Inhaber, ArtGana"
   },
   "contact": {
     "title": "Kontakt",
-    "location": "Ort",
+    "description": "Ich bin jederzeit erreichbar. Sie können mich gerne auf jede für Sie bequeme Weise kontaktieren.",
+    "location": "Standort",
     "address": "Bad Camberg, Deutschland",
-    "email": "E-Mail",
-    "phone": "Telefon",
-    "form_name": "Ihr Name",
-    "form_email": "Ihre E-Mail",
-    "form_subject": "Betreff",
-    "form_message": "Nachricht",
-    "send": "Nachricht senden"
-  },
-  "footer": {
-    "credit": "Entworfen von Serhii Kaliuzhnyi"
+    "email": "E-Mail:",
+    "phone": "Telefon:"
   }
 }
