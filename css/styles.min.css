@@ -307,15 +307,15 @@ section {
   margin-bottom: 30px;
 }
 .about .content ul {
-  list-style: none;
+  list-style: disc;
   padding: 0;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .about .content ul li {
   margin-bottom: 20px;
-  display: flex;
-  align-items: center;
+  margin-left: 50px;
+  padding-left: 10px;
 }
 .about .content ul strong {
   margin-right: 10px;

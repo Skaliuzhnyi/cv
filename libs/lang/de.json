@@ -29,9 +29,18 @@
     "degree": "Ausbildung:",
     "freelance": "Freiberuflich:",
     "available": "Master of Economics",
-    "desc1": "Ich bin ein Front-End-orientierter Webentwickler, der die Front-End-Seiten von Websites und Webanwendungen erstellt und verwaltet, die zum Erfolg des Produkts beitragen. Siehe einige meiner Arbeiten im ",
-    "projects_link": "Projekte-Bereich.",
-    "desc2": "Ich bin offen für Jobmöglichkeiten, bei denen ich beitragen, lernen und wachsen kann. Wenn Sie eine passende Möglichkeit haben, zögern Sie nicht, mich zu kontaktieren."
+    "desc1": "Ich bin ein Frontend-Entwickler, spezialisiert auf die Erstellung moderner, responsiver Websites, Landingpages und Online-Shops. Es macht mir Spaß, Ideen und Design-Layouts in lebendige Projekte umzusetzen, die schnell funktionieren, auf allen Geräten gut aussehen und echten Mehrwert für Unternehmen schaffen.",
+    "desc2": "Ich arbeite sicher mit HTML5, CSS3 (SCSS, Tailwind), JavaScript (ES6+), sowie mit Versionskontrollsystemen (Git) und Tools zur Projektoptimierung und -erstellung (Webpack, Vite).",
+    "desc3": "Außerdem habe ich Erfahrung mit der Integration von Websites in CMS- und E-Commerce-Lösungen.",
+    "desc4": "Besonderes Augenmerk lege ich auf:",
+    "desc51": "Cross-Browser-Kompatibilität und Responsivität",
+    "desc52": "– Websites werden auf allen Geräten korrekt dargestellt.",
+    "desc61": "Performance-Optimierung",
+    "desc62": "– Seiten laden so schnell wie möglich.",
+    "desc71": "UI/UX-Freundlichkeit",
+    "desc72": "– Benutzer genießen eine reibungslose und intuitive Interaktion.",
+    "desc8": "Derzeit lerne ich intensiv React und erweitere meinen Tech-Stack, um an komplexeren Webanwendungen zu arbeiten.",
+    "desc9": "Ich schätze Teamarbeit, transparente Kommunikation und Verantwortungsbewusstsein. Ich suche nach Möglichkeiten, Projekte zu realisieren, die Menschen nützen und Unternehmen beim Wachstum unterstützen."
   },
   "facts": {
     "title": "Fakten",
