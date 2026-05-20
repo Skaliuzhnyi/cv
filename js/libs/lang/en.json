@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "title": "SERHII KALIUZHNYI / Portfolio",
+    "description": "Front-end Developer Portfolio, Web Developer, HTML CSS JavaScript, WordPress, Figma",
+    "keywords": "Front-end Developer Portfolio, Web Developer, HTML CSS JavaScript, WordPress, Figma"
+  },
+  "header": {
+    "name": "Serhii Kaliuzhnyi"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "resume": "Resume",
+    "projects": "Projects",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "HEY, I'M SERHII KALIUZHNYI",
+    "subtitle": "A results-oriented Web Developer building and managing websites and web applications that lead to the overall product’s success."
+  },
+  "about": {
+    "title": "About",
+    "role": "Front-end Developer",
+    "subtitle": "What you need to know about me",
+    "birthday": "Birthday:",
+    "age": "Age:",
+    "location": "Location:",
+    "phone": "Phone:",
+    "languages": "Languages:",
+    "degree": "Education:",
+    "master": "Master of Economics:",
+    "freelance": "Freelance:",
+    "available": "Available",
+    "desc1": "I am a Frontend Developer specializing in creating modern, responsive websites, landing pages, and online stores. I enjoy turning ideas and design mockups into live projects that work fast, look great on any device, and deliver real value to businesses.",
+    "desc2": "I work confidently with HTML5, CSS3 (SCSS, Tailwind), JavaScript (ES6+), as well as with version control systems (Git) and project build and optimization tools (Webpack, Vite).",
+    "desc3": "I also have experience integrating websites with CMS and e-commerce solutions.",
+    "desc4": "I pay special attention to:",
+    "desc51": "Cross-browser compatibility and responsiveness",
+    "desc52": "– websites display correctly across all devices.",
+    "desc61": "Performance optimization",
+    "desc62": "– pages load as quickly as possible.",
+    "desc71": "UI/UX friendliness",
+    "desc72": "– users enjoy smooth and intuitive interaction.",
+    "desc8": "Currently, I am actively learning React and expanding my tech stack to work on more complex web applications.",
+    "desc9": "I value teamwork, transparent communication, and responsibility for results. I am looking for opportunities to build projects that help people and support business growth."
+  },
+  "facts": {
+    "title": "Facts",
+    "projects": "Projects Completed",
+    "clients": "Happy Clients",
+    "support": "Support hours"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Core skills and tools that I consistently use in my projects.",
+    "html": "HTML",
+    "css": "CSS",
+    "js": "JavaScript",
+    "php": "PHP",
+    "wp": "WordPress",
+    "experience-1": "--- Experience with HTML5, CSS3, and JavaScript",
+    "experience-2": "--- Knowledge of JavaScript and jQuery",
+    "experience-3": "--- Experience with responsive and adaptive layouts",
+    "experience-4": "--- Experience in creating HTML pages based on design mockups",
+    "experience-5": "--- Experience in building site templates for CMS",
+    "experience-6": "--- Skills in integrating scripts for interactive UI elements and animations",
+    "experience-7": "--- Knowledge of CSS frameworks (Bootstrap, etc.)",
+    "experience-8": "--- Knowledge of cross-browser layout techniques",
+    "experience-9": "--- Proficient with Figma and Photoshop",
+    "experience-10": "--- Pixel-perfect design implementation",
+    "experience-11": "--- Experience with Gulp for workflow automation"
+  },
+  "resume": {
+    "title": "Resume"
+  },
+  "education": {
+    "title": "Education",
+
+    "edu-1-title": "Landing Layout & Theme Creation on WordPress CMS",
+    "edu-1-date": "July 2023",
+    "edu-1-place": "Course by Ivan Petrichenko on Udemy",
+    "edu-1-desc": "I learned how to install layouts and create custom WordPress themes from scratch, building them into full-fledged products.",
+
+    "edu-2-title": "Web Development",
+    "edu-2-date": "November 2021 - January 2022",
+    "edu-2-place": "Course \"From 0 to 1\" by Vadim Prokopchuk",
+
+    "edu-3-title": "Master in Economics of Housing and Communal Services",
+    "edu-3-date": "2002 - 2005",
+    "edu-3-place": "State Academy of Housing and Communal Services"
+  },
+  "experience": {
+    "title": "Professional Experience",
+
+    "exp-1-title": "Front-end Developer",
+    "exp-1-date": "2022 - Present",
+    "exp-1-place": "Freelance",
+
+    "exp-2-title": "Front-end Developer",
+    "exp-2-date": "2022 - 2025",
+    "exp-2-place": "Plut-on digital",
+
+    "exp-2-merged": "Plut-on digital",
+
+    "exp-3-title": "Restaurant owner",
+    "exp-3-date": "2015 - 2022",
+    "exp-3-place": "Self-employed",
+    "exp-3-resp-1": "Restaurant construction",
+    "exp-3-resp-2": "Restaurant management",
+    "exp-3-resp-3": "Selling restaurants as a running business",
+
+    "exp-4-title": "Restaurant manager",
+    "exp-4-date": "2006 - 2014",
+    "exp-4-resp-1": "Managed personnel",
+    "exp-4-resp-2": "Coordinated with suppliers",
+    "exp-4-resp-3": "Liaised with authorities for permits and compliance",
+    "exp-4-resp-4": "Developed restaurants",
+    "exp-4-resp-5": "Oversaw construction of restaurants",
+    "exp-4-resp-6": "Managed restaurant operations",
+    "exp-4-resp-7": "Sold restaurants as operating businesses"
+  },
+  "projects": {
+    "title": "Portfolio",
+    "description": "Here are some examples of my work.",
+    "category": "All"
+  },
+  "testimonials": {
+    "title": "Testimonials",
+
+    "text1": "I highly recommend working with Sergey. All tasks were completed efficiently and on time. He also made improvements to the code, SEO, and overall website performance.",
+    "role1": "Owner, PluOn digital",
+
+    "text2": "I am very satisfied with the result! The main goal was achieved – clean code with WordPress integration.",
+    "role2": "Owner, Cyfra Service Center",
+
+    "text3": "Great work! The task was completed on time, all corrections and requests were implemented. Highly recommended.",
+    "role3": "Owner, Disystems",
+
+    "text4": "Sergey did an excellent job. The project was completed with high quality and within the agreed timeframe. All feedback was implemented. I recommend hiring him.",
+    "role4": "Owner, ArtGana"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "I am always available. Feel free to contact me using any method convenient for you.",
+    "location": "Location",
+    "address": "Bad Camberg, Germany",
+    "email": "E-Mail:",
+    "phone": "Phone:"
+  }
+}
